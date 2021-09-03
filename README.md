@@ -3,6 +3,8 @@
 > An extension that adds labeled footnotes to the Python Markdown parser
 > [Marko](https://github.com/frostming/marko/).
 
+![Unit test status](https://github.com/jakekara/marko-labeled-footnotes/actions/workflows/main.yml/badge.svg]
+
 ## Usage
 
 There are two forms for the syntax fo a labeled footnote. You can use `[^label-text]` or [^label-id=label-text] where `label-id` is unique to the document.
