@@ -3,7 +3,7 @@
 > An extension that adds labeled footnotes to the Python Markdown parser
 > [Marko](https://github.com/frostming/marko/).
 
-![Unit test status](https://github.com/jakekara/marko-labeled-footnotes/actions/workflows/main.yml/badge.svg]
+![Unit test status](https://github.com/jakekara/marko-labeled-footnotes/actions/workflows/main.yml/badge.svg)
 
 ## Usage
 
