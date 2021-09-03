@@ -1,5 +1,7 @@
+LICENSE.txt
 README.md
 setup.py
+src/labeled_footnote/__init__.py
 src/marko_labeled_footnotes.egg-info/PKG-INFO
 src/marko_labeled_footnotes.egg-info/SOURCES.txt
 src/marko_labeled_footnotes.egg-info/dependency_links.txt
