@@ -5,6 +5,8 @@
 
 ## Usage
 
+There are two forms for the syntax fo a labeled footnote. You can use `[^label-text]` or [^label-id=label-text] where `label-id` is unique to the document.
+
 ```python
 from marko import Markdown
 markdown = Markdown()
