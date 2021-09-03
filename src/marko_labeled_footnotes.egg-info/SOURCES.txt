@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/marko_labeled_footnotes.egg-info/PKG-INFO
+src/marko_labeled_footnotes.egg-info/SOURCES.txt
+src/marko_labeled_footnotes.egg-info/dependency_links.txt
+src/marko_labeled_footnotes.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+marko
+black
+pytest==6.2.5
+black==21.8b0
+marko==1.1.0
+# Editable Git install with no remote (marko-labeled-footnotes==0.0.1)
+-e /Users/jake/Code/marko-labeled-footnotes/src

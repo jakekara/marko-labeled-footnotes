@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: marko-labeled-footnotes
+Version: 0.0.1
+Summary: Labeled footnotes support for the Marko Markdown parser
+Home-page: https://github.com/jakekara/marko-labeled-footnotes
+Author: Jake Kara
+Author-email: jake@jakekara.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/jakekara/marko-labeled-footnotes/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
