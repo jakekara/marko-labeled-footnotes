@@ -16,3 +16,14 @@ text = 'this is a labeled footnote[^10=Doe, 1998].\n\n[^10=Doe, 1998]: foo\n'
 markdown = Markdown(extensions=['labeled_footnote'])
 print(markdown(text))
 ```
+
+## Development
+
+To develop and run tests, use the following commands in your preferred
+environment. I like to use venv.:
+
+```bash
+pip install -r dev_requirements
+python setup.py develop
+pytest
+```
