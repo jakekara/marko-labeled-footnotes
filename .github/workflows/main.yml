@@ -21,6 +21,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r dev_requirements.txt
       - name: Install development package
-          python setup.py develop
+        run: python setup.py develop
       - name: Run tests with pytest
         run: pytest 
